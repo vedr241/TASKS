@@ -10,4 +10,4 @@ qram is used to encoded the list of integers with indices. ORacle is used to mar
 ![img](https://github.com/vedr241/TASKS/assets/90955721/472a9213-f51f-4a37-aace-5ca1000f1ff4)
 
 
-Note- Qbits for converting number to binary is chosen correctly for different sets of inputs. 
+Note- Qbits for converting number to binary is chosen wisely for different sets of inputs. 
